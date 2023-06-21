@@ -9,7 +9,11 @@ Grafana dashboard
 docker compose up
 ```
 
-## Credentials
+### Credentials
 
 Username : `admin`
 Password : `admin`
+
+### Add dashboard
+
+Import a dashboard using the dashboard directory and the .json file.
