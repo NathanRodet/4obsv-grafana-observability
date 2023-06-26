@@ -16,7 +16,7 @@ Password : `admin`
 
 ### Add data source
 
-Add a datasource from prometheus using this URL : `demo.promlabs.com` it does not require any more configuration.
+Add a datasource from prometheus using this URL : `http://demo.promlabs.com` it does not require any more configuration.
 
 ### Add dashboard
 
