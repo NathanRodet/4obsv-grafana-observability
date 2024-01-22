@@ -1,11 +1,9 @@
-# supinfo-4obsv
-
-Grafana dashboard
+# Grafana dashboard
 
 ## How to setup
 
 ```bash
-# Use this command in the supinfo-obsv directory
+# Use this command in the obsv directory
 docker compose up
 ```
 
